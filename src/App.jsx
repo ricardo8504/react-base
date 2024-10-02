@@ -1,13 +1,11 @@
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
 import './App.css'
+import Session1 from './challenges/session-1/Session1'
 
 function App() {
-
   return (
-    <h1 className="text-3xl font-bold underline">
-      Hello world!
-    </h1>
+    <>
+      <Session1/>
+    </>
   )
 }
 
