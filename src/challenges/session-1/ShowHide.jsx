@@ -1,14 +1,22 @@
 import { useState } from "react";
 
 const ShowHide = () => {
-    let buttonText = "Show/Hide";
+    const [show, setShow] = useState(false);
+    let buttonText = "Show";
+    function toggleShow() {
+        setShow(prevState => !prevState);
+    }
+
+    if (show) {
+        buttonText = "Hide";
+    }
 
     return (
         <section className="w-full">
-            <button>{buttonText}</button>
-            <h2 className="text-3xl font-bold underline">
+            <button onClick={toggleShow}>{buttonText}</button>
+            {show && <h2 className="text-3xl font-bold underline">
                 Welcome to React Upskilling Study Group
-            </h2>
+            </h2>}
         </section>
     )
 }
