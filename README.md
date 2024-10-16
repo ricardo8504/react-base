@@ -18,6 +18,15 @@ https://learning.oreilly.com/course/react-the/9781801812603/
 | Most used built-in Hooks   | [UseEffect - CHAPTER 11](https://learning.oreilly.com/course/react-the/9781801812603/)|
 | Custom hooks               | [CHAPTER 16](https://learning.oreilly.com/course/react-the/9781801812603/)|
 
+### Session 3
+
+| Topic                      | Resource                                                                 |
+|----------------------------|--------------------------------------------------------------------------|
+| Handling state complexity  | [CHAPTER 10](https://learning.oreilly.com/course/react-the/9781801812603/)|
+| useReducer                 | [CHAPTER 10](https://learning.oreilly.com/course/react-the/9781801812603/)|
+| Form handling              | [CHAPTER 17](https://learning.oreilly.com/course/react-the/9781801812603/)|
+| Data fetching              | [CHAPTER 15](https://learning.oreilly.com/course/react-the/9781801812603/)|
+
 ## Get Started with the base react project
 
 1. Install node dependencies 
