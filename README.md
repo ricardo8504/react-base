@@ -22,7 +22,7 @@ https://learning.oreilly.com/course/react-the/9781801812603/
 
 | Topic                      | Resource                                                                 |
 |----------------------------|--------------------------------------------------------------------------|
-| Handling state complexity  | [CHAPTER 10](https://learning.oreilly.com/course/react-the/9781801812603/)|
+| Handling state complexity  | [Choosing state complexity](https://react.dev/learn/choosing-the-state-structure) [CHAPTER 10](https://learning.oreilly.com/course/react-the/9781801812603/)|
 | useReducer                 | [CHAPTER 10](https://learning.oreilly.com/course/react-the/9781801812603/)|
 | Form handling              | [CHAPTER 17](https://learning.oreilly.com/course/react-the/9781801812603/)|
 | Data fetching              | [CHAPTER 15](https://learning.oreilly.com/course/react-the/9781801812603/)|
