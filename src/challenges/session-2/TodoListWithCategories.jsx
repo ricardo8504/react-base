@@ -1,4 +1,4 @@
-import React, { Component, useEffect } from 'react';
+import React, { Component } from 'react';
 
 class TodoListWithCategories extends Component {
   constructor(props) {
